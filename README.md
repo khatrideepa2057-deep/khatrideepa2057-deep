@@ -2,7 +2,7 @@
 
 ## Data & Economic Research Analyst | M.S. Business Analytics | Economic Development
 
-I am a Business Analytics graduate student at Avila University with a 4.00 GPA and current experience at the Kansas Department of Commerce. My work focuses on economic and workforce analysis, data validation, dashboards, program analytics, and translating complex data into clear insights for decision-making.
+I am a Business Analytics graduate student at Avila University with a 4.00 GPA and current experience at the Kansas Department of Commerce. My work focuses on economic and workforce analysis, data validation, dashboards, program analytics, and translating complex data into clear, actionable insights.
 
 I work with public-sector, economic, workforce, and industry datasets using Python, SQL, Excel, Power BI, and Tableau.
 
@@ -40,10 +40,9 @@ Git • GitHub • VS Code • Microsoft Excel • PowerPoint
 ## Featured Projects
 
 ### Kansas Economic & Workforce Trends Analysis
-
 County-level analysis of Kansas economic and workforce trends using Census ACS and BLS data.
 
-Key areas:
+**Key areas**
 - Employment and unemployment trends
 - Demographic and income analysis
 - Data cleaning and validation
@@ -51,10 +50,9 @@ Key areas:
 - Data visualization and reporting
 
 ### Kansas Industry Growth & Economic Competitiveness Analysis
-
 Analysis of Kansas industry performance using BLS QCEW and BEA data.
 
-Key areas:
+**Key areas**
 - Employment growth
 - Wage trends
 - Location quotients
@@ -63,10 +61,9 @@ Key areas:
 - Benchmarking and visualization
 
 ### Kansas Workforce Program Performance Analysis
-
 Analysis of workforce program performance using KPI benchmarking, validation, and dashboard reporting.
 
-Key areas:
+**Key areas**
 - Program KPIs
 - Data validation
 - Performance benchmarking
@@ -77,6 +74,5 @@ Key areas:
 
 ## Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/deepa-khatri-b2a614413/
-
-Email: khatri.deepa2057@gmail.com
+[LinkedIn](https://www.linkedin.com/in/deepa-khatri-b2a614413/)  
+[Email](mailto:khatri.deepa2057@gmail.com)
