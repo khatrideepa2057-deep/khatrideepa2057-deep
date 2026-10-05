@@ -39,7 +39,7 @@ Git • GitHub • VS Code • Microsoft Excel • PowerPoint
 
 ## Featured Projects
 
-###### [Kansas Economic & Workforce Trends Analysis](https://github.com/khatrideepa2057-deep/kansas-economic-workforce-analysis)
+### [Kansas Economic & Workforce Trends Analysis](https://github.com/khatrideepa2057-deep/kansas-economic-workforce-analysis)
 County-level analysis of Kansas economic and workforce trends using Census ACS and BLS data.
 
 **Key areas**
