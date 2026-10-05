@@ -49,7 +49,7 @@ County-level analysis of Kansas economic and workforce trends using Census ACS a
 - SQL and Python analysis
 - Data visualization and reporting
 
-### Kansas Industry Growth & Economic Competitiveness Analysis
+### [Kansas Industry Growth & Economic Competitiveness Analysis](https://github.com/khatrideepa2057-deep/Kansas-Industry-Growth-and-Economic-Competitiveness-Analysis)
 Analysis of Kansas industry performance using BLS QCEW and BEA data.
 
 **Key areas**
@@ -60,7 +60,7 @@ Analysis of Kansas industry performance using BLS QCEW and BEA data.
 - Economic competitiveness
 - Benchmarking and visualization
 
-### Kansas Workforce Program Performance Analysis
+### [Kansas Workforce Program Performance Analysis](https://github.com/khatrideepa2057-deep/Kansas-Workforce-Program-Performance-Analysis)
 Analysis of workforce program performance using KPI benchmarking, validation, and dashboard reporting.
 
 **Key areas**
